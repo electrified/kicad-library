@@ -1212,26 +1212,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 3.81 -33.02 90)
-				(length 2.54)
-				(hide yes)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 3.81 -33.02 90)
+				(at 6.35 -33.02 90)
 				(length 2.54)
 				(hide yes)
 				(name "NC"
@@ -1242,6 +1223,25 @@
 					)
 				)
 				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 8.89 -33.02 90)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1485,8 +1485,27 @@
 					)
 				)
 			)
+			(pin no_connect line
+				(at -2.54 -33.02 90)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin power_in line
-				(at -2.54 20.32 270)
+				(at 0 20.32 270)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -1514,25 +1533,6 @@
 					)
 				)
 				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 3.81 -33.02 90)
-				(length 2.54)
-				(hide yes)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
 					(effects
 						(font
 							(size 1.27 1.27)
