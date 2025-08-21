@@ -148,7 +148,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 7.62 0 180)
 				(length 2.54)
 				(name "OUT"
@@ -166,7 +166,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 7.62 -2.54 180)
 				(length 2.54)
 				(name "OUT"

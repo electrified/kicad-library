@@ -470,4 +470,15 @@
 		(uuid "e1ec5d16-0af7-481b-a8e8-4631b7264c11")
 	)
 	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_DIP-8.wrl"
+		(offset
+			(xyz -7.6 -3.65 -0.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
